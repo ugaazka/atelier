@@ -1,0 +1,1 @@
+{"name":"atelier-interactive-closet","version":"1.0.0","private":true,"description":"Portable interactive fashion showroom — no dependencies","scripts":{"dev":"node server.js","start":"node server.js","check":"node --check app.js && node --check products.js && node --check server.js"},"engines":{"node":">=18"}}
